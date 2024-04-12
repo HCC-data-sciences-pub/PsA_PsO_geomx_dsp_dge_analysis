@@ -1,0 +1,1 @@
+Public repository of code used in differential gene expression analysis in the 2024 JCI manuscript "Psoriatic arthritis subtypes are phenocopied in a humanized murine model of psoriasis and joint inflammation." 
